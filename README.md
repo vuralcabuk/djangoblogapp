@@ -1,1 +1,1 @@
-# djangoblogapp
+Basit arayüz tasarımlı blog sitesi
